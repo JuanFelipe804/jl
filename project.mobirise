@@ -137,7 +137,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/mudanzas-pro-2000x682.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -146,13 +146,13 @@
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "MUDANZAS",
-                "showText": true,
+                "showText": false,
                 "text": "PBX:4106794 CEL:3153656341",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Cotiza</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PBX:4106794</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CEL:3153656341</a> "
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/fondoh8-2000x779.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -160,10 +160,10 @@
                 "contentAlign": "left",
                 "showTitle": true,
                 "title": "Mudanzas Bogotá",
-                "showText": true,
+                "showText": false,
                 "text": "PBX: 4106794 CEL: 3153656341",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:0314106794\" data-toolbar=\"-mbrBtnMove\">PBX:4106794</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"tel:3153656341\" data-toolbar=\"-mbrBtnMove\">CEL:3153656341</a>"
               },
               {
                 "active": false,
@@ -174,10 +174,10 @@
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Mudanzas",
-                "showText": true,
+                "showText": false,
                 "text": "PBX:4106794 CEL: 3153656341",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Cotiza</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:0314106794\" data-toolbar=\"-mbrBtnMove\">PBX:4106794</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:3153656341\" data-toolbar=\"-mbrBtnMove\">CEL:3153656341</a> "
               },
               {
                 "active": false,
@@ -188,10 +188,10 @@
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Mudanzas",
-                "showText": true,
+                "showText": false,
                 "text": "PBX:4106794 CEL: 3153656341",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Cotiza</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:0314106794\" data-toolbar=\"-mbrBtnMove\">PBX:4106794</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"tel:0314106794\" data-toolbar=\"-mbrBtnMove\">CEL:3153656341</a> "
               }
             ],
             "fullScreen": true,
@@ -202,10 +202,10 @@
           "articleLayout": false,
           "_styles": {
             "P": {
-              "text-align": "right"
+              "text-align": "center"
             },
             "H2": {
-              "text-align": "right"
+              "text-align": "center"
             }
           }
         },
